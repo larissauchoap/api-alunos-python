@@ -2,4 +2,4 @@
 
 API Python to insert and get students
 
-#Command to run application: python app.py
+Command to run application: python app.py
